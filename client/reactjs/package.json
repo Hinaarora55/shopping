@@ -1,0 +1,36 @@
+{
+  "name": "exam",
+  "version": "0.0.0",
+  "description": "An online Examination portal",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachit1994/exam.git"
+  },
+  "keywords": [
+    "exam",
+    "online",
+    "exam",
+    "online",
+    "examination",
+    "online",
+    "examination",
+    "portal"
+  ],
+  "author": "rachit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachit1994/exam/issues"
+  },
+  "homepage": "https://github.com/rachit1994/exam#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
